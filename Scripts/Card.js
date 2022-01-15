@@ -37,7 +37,7 @@ app.controller('cardCtrl',function($scope,$http,$location){
     $http(
         {
             method:"GET",
-            url:"../modal/card.json"
+            url:"/modal/card.json"
         }
     ).then((response)=>{
         
@@ -77,7 +77,7 @@ app .controller('navCtrl',  function($scope,$location) {
     $http(
         {
             method:"GET",
-            url:"../modal/blue.json"
+            url:"/modal/blue.json"
         }
     ).then((response)=>{
         
@@ -116,7 +116,7 @@ app.controller('bookCtrl',function($scope,$http,$location){
     $http(
         {
             method:"GET",
-            url:"../modal/Book.json"
+            url:"/modal/Book.json"
         }
     ).then((response)=>{
         
