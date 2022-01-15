@@ -1,0 +1,29 @@
+[
+    {
+        "Title":"Blue Orgin",
+        "content":"Upcoming Trip ",
+        "Palce":"Date of journey : 12/02/2022 ",
+        "Cost": "120M USD /person"
+
+    
+    },
+
+    {
+        "Title":"Virgin Galactic",
+        "content":"Upcoming Trip ",
+        "Palce":"Date of journey : 12/02/2022 ",
+        "Cost": "150M USD /person"
+
+    
+    },
+
+    {
+        "Title":"SpaceX",
+        "content":"Upcoming Trip ",
+        "Palce":"Date of journey : 12/02/2022 ",
+        "Cost": "100M USD /person"
+        
+
+    
+    }
+]

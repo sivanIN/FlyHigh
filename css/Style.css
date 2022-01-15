@@ -1,0 +1,110 @@
+.background{
+    background-image:url("../Images/310163.jpg");
+    width: 100%;
+    height: 900px;
+    
+}
+
+.backgrdorgin{
+    background-image:url("../Images/1934865.jpg");   
+    width: 100%;
+    height: 800px;
+
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
+
+.background h1{
+    text-align: center;
+    color:grey;
+    margin-top: 90px;
+    height: 10px;
+    
+}
+
+.background p{
+    text-align: center;
+    color:grey;
+    margin-top: 60px;
+    
+}
+
+.text{
+    text-align: center;
+    color:white;
+    margin-top: 60px; 
+}
+
+
+.card{
+    float: right;
+    padding: 10px;
+    margin-left: 90px;
+    text-align: center;
+    margin-right: 105px;
+    margin-bottom: 48px;
+    border-radius: 20px;
+      
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.nav{
+    
+    margin-left: 660px;
+    width: 420px;
+    padding-right: 50px;
+ 
+    
+}
+
+.buttonClass
+{
+    border: none;
+ 
+    
+    /* width: 100px; */
+  
+    margin-left: 10px;
+   
+    background-color: rgb(201, 195, 195);
+    text-decoration: none;
+}
+
+button :hover{
+    color: blue
+}
+
+.cardimage{
+
+    /* width: 10px; */
+    height: 250px;
+}
+
+.section2{
+    /* background-color: rgb(201, 195, 195); */
+    background-image: url(" ../Images/wallpapersden.com_76962-3840x2160.jpg");  
+    height: 830px;
+}
+
+.textchoose{
+    text-align: center;
+    margin-right: 20px;
+    color:rgb(233, 231, 118);
+}
+
+.bookbackground{
+    background-color:rgb(169, 169, 240);
+    width: 750px;
+    margin-left: 500px;
+    margin-top: 35px;
+    height: 750px;
+
+}
+
+.bookslots{
+    margin-top: 50px;
+    width: 700px;
+    padding: 10px;
+}
+

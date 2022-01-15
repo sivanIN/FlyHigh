@@ -1,0 +1,22 @@
+.cards{
+    background-color:grey;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 400px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 100px;
+    color: grey;
+    
+    
+}
+
+.cards :hover{
+    box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
+}
+
+
+
+.card-body{
+  background-image: url("https://media.slidesgo.com/storage/14503771/space-vacation1637739355.jpg");
+}
